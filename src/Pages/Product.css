@@ -1,0 +1,22 @@
+.Productcontainer{
+    width: 50%;
+    margin: auto;
+}
+
+.image-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.description{
+    text-align: center;
+}
+
+.backBtn{
+    text-decoration: none;
+    color: black;
+    margin-left: 120px;
+   
+}
